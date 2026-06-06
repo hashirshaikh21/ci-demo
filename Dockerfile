@@ -1,6 +1,8 @@
 # Base image
 FROM python:3.12-slim
 
+#Docker file step 2 
+
 # Working directory
 WORKDIR /app
 
